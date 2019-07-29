@@ -1,0 +1,11 @@
+.morecontent span {
+    display: none;
+}
+
+.morelink {
+    display: block;
+}
+
+.justificar {
+    text-align: center;
+}
